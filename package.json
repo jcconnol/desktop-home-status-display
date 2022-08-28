@@ -1,0 +1,25 @@
+{
+  "name": "desktop_home_status_display",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcconnol/desktop-home-status-display.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcconnol/desktop-home-status-display/issues"
+  },
+  "homepage": "https://github.com/jcconnol/desktop-home-status-display#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-os-utils": "^1.3.7",
+    "os-utils": "^0.0.14",
+    "systeminformation": "^5.12.6"
+  }
+}
